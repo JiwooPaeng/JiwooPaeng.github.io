@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { Post } from '@/service/posts';
 
 import PostsGrid from './PostsGrid'
+import Categories from './Categories'
 
 type Props = {
   posts: Post[];
@@ -19,5 +20,6 @@ export default function FilterablePosts({posts, categories}: Props) {
   
   return <section>
     <PostsGrid posts={filtered}/>
+    <Categories categories={[ALL_POSTS, ...categories]} selected={selected} onClick={setSelected}/>
   </section>
 }
