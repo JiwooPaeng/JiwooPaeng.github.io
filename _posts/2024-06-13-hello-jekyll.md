@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Welcome to Jekyll!"
 ---
 
@@ -9,4 +9,7 @@ title:  "Welcome to Jekyll!"
 
 I hope you like it!
 
+---
+
 ✅ jekyll 파일 시작
+-  layout 적용
