@@ -11,4 +11,10 @@ I hope you like it!
 ---
 
 ✅ jekyll 파일 시작
--  layout 적용
+
+✅ 테마 정상적으로 적용
+
+✅ Typora 활용한 이미지 정상 적용
+
+![토비](/Users/paengjiwoo/Desktop/JiwooPaeng.github.io/imges/2024-06-13-hello-jekyll/토비.jpeg)
+
