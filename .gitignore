@@ -5,4 +5,9 @@ _site
 # vendor
 
 Gemfile.lock
+Gemfile
+.bundle
+bin
 .travis.tml
+
+/node_modules
